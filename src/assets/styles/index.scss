@@ -4,6 +4,10 @@
 @import url('../../pages/Profile/Profile.style.scss');
 @import url('../../pages/Welcome/Welcome.style.scss');
 
+* {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
 #root {
   display: flex;
   margin: 0 auto;

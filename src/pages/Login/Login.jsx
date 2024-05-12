@@ -1,6 +1,6 @@
 import React from 'react'
 import peopleImage from '../../assets/images/peopleImage.svg';
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { useForm } from 'react-hook-form';
 
 const Login = () => {
